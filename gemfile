@@ -6,6 +6,7 @@ gemspec :name => "jekyll"
 group :jekyll_plugins do
   gem "jemoji"
   gem 'youtube'
+  gem 'BetterTube'
   gem "jekyll-gist"
   gem "jekyll-coffeescript"
   gem "jekyll-assets"
