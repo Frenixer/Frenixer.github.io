@@ -4,9 +4,7 @@
 
 **Видео:**
 
-````html
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZeB1yXo0BVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-````
+![](https://www.youtube-nocookie.com/embed/ZeB1yXo0BVY)
 
 ## Ник игрока
 Тут все легко, просто создаем **Local Script** в TextLabel пишем туда этот скрипт:
