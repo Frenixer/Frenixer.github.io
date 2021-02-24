@@ -4,7 +4,7 @@
 
 **Видео:**
 
-{% youtube /ZeB1yXo0BVY %}
+{ youtube ZeB1yXo0BVY }
 
 ## Ник игрока
 Тут все легко, просто создаем **Local Script** в TextLabel пишем туда этот скрипт:
