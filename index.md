@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+# Добро пожаловать на сайт Frenixer'a
+Видимо ты попал сюда с моего [Youtube канала](https://www.youtube.com/channel/UCNXYo-SI8is-91A5VBWYQig). Так вот, здесь я публикую весь код со своих видео или просто туториалы про Roblox LUA пока что.
 
-You can use the [editor on GitHub](https://github.com/Frenixer/Frenixer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Избранное
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
