@@ -4,7 +4,7 @@
 
 **Видео:**
 
-![](https://www.youtube-nocookie.com/embed/ZeB1yXo0BVY)
+![Watch the video](https://www.youtube-nocookie.com/embed/ZeB1yXo0BVY)
 
 ## Ник игрока
 Тут все легко, просто создаем **Local Script** в TextLabel пишем туда этот скрипт:
