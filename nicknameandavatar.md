@@ -1,8 +1,9 @@
 # Ник игрока и его аватар
 
 В этом туториале я тебя научу как создавать текст с ником игрока или с его аватаром
+
 **Видео:**
-/iframe/<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeB1yXo0BVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+/iframe/https://www.youtube.com/embed/ZeB1yXo0BVY
 
 ## Ник игрока
 Тут все легко, просто создаем **Local Script** в TextLabel пишем туда этот скрипт:
