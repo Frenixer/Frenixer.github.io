@@ -32,8 +32,10 @@ local imageLabel = script.Parent
 imageLabel.Image = content -- Изменяет обычную картинку на аватар игрока
 imageLabel.Size = UDim2.new(0, 420, 0, 420) -- Изменять в зависимости от того, какой параметр выбран в ThubnailSize
 ````
+![template2](Frenixer.github.io/images/avatarcode.png)
+ 
 **Все типы картинок 'Enum.ThumbnailType':**
-![template2]()
+
 - 'AvatarBust' - Голова и чуть-чуть туловище
 
 - 'AvatarThumbnail' - Аватар полным размером

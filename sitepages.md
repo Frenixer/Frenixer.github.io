@@ -1,7 +1,9 @@
 # Все страницы на этом сайте:
 
-- [Все страницы (Эта страница)](https://frenixer.github.io/sitemap)
+- [Все страницы (Эта страница)](/sitemap)
 
-- [Ник и аватар игрока](https://frenixer.github.io/nicknameandavatar)
+- [Ник и аватар игрока](/luarbxstudio/nicknameandavatar)
 
-- [Главная страница](https://frenixer.github.io/)
+- [Главная страница](/)
+
+- [GUI анимации (Скоро)]()
