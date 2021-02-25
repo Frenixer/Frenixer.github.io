@@ -7,7 +7,7 @@
 
 [https://youtu.be/ZeB1yXo0BVY](https://youtu.be/ZeB1yXo0BVY)
 
-{% include /luarbxstudio/AvatarVideo.html %}
+{% include avatarvid.html %}
 
 **Полная документация на английском:**
 
