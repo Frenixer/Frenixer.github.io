@@ -7,6 +7,8 @@
 
 [https://youtu.be/ZeB1yXo0BVY](https://youtu.be/ZeB1yXo0BVY)
 
+{% include /luarbxstudio/AvatarVideo.html %}
+
 **Полная документация на английском:**
 
 [https://developer.roblox.com/en-us/api-reference/function/Players/GetUserThumbnailAsync](https://developer.roblox.com/en-us/api-reference/function/Players/GetUserThumbnailAsync)
