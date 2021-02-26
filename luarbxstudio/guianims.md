@@ -13,7 +13,7 @@
 
 ## Вступление
 
-:TweenPosition и *:TweenSize (+ еще и *:TweenPositionAndSize) нужен для создания красивых анимаций
+*:TweenPosition и *:TweenSize (еще и *:TweenPositionAndSize) нужен для создания красивых анимаций
 
 ## Пример для *:TweenPosition
 ````lua
@@ -65,18 +65,17 @@ object:TweenSize(UDim2.new(0, 400, 0, 100))
 | In | Анимация будет иметь меньшую скорость в начале и большую скорость в конце. |
 | Out | Анимация будет иметь большую скорость в начале и меньшую скорость в конце. |
 | InOut | In и Out для одной и той же анимации, с In в начале и Out, вступающими в силу в середине. |
-
-
+    
 | Стиль | Описание |
 |-----|-----------|
-| Linear | Moves at a constant speed. |
-| Sine | Movement speed is determined by a sine wave. |
-| Back | Tween movement backs into or out of place. |
-| Quad | Eases in or out with quadratic interpolation. |
-| Quart | Similar to Quad but with a more emphasized start and/or finish. |
-| Quint | Similar to Quad but with an even more emphasized start and/or finish. |
-| Bounce | Moves as if the start or end position of the tween is bouncy. |
-| Elastic | Moves as if the object is attached to a rubber band. |
+| Linear | Двигается с одной и той же скоростью. |
+| Sine | Скорость движения определяется синусоидой. |
+| Back | Движение анимации возвращается на свое место или выходит из него. |
+| Quad | Облегчает вход или выход с помощью квадратичной интерполяции. |
+| Quart | Подобно Quad, но с более подчеркнутым началом и / или финишем. |
+| Quint | Подобно Quad, но с еще более подчеркнутым началом и / или финишем. |
+| Bounce | Движется так, как если бы начальное или конечное положение анимации было как мячик. |
+| Elastic | Двигается так, как будто объект прикреплен к резинке. |
 
 
 ![styles](https://dk135eecbplh9.cloudfront.net/assets/blt164bc3fd53630e3a/Easingstyle.gif)

@@ -1,9 +1,10 @@
 # Все страницы на этом сайте:
+- Главные страницы
+    > [Все страницы (Эта страница)](/sitepages)
+    > [Главная страница](/)
 
-- [Все страницы (Эта страница)](/sitepages)
-
-- [Ник и аватар игрока](/luarbxstudio/nicknameandavatar)
-
-- [Главная страница](/)
-
-- [GUI анимации](/luarbxstudio/guianims)
+- Roblox Studio
+    - Скрипты
+        > [GUI анимации](/luarbxstudio/guianims)
+        > [Ник и аватар игрока](/luarbxstudio/nicknameandavatar)
+    - Остальное
