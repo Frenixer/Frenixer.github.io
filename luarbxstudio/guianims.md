@@ -62,8 +62,8 @@ object:TweenSize(UDim2.new(0, 400, 0, 100))
 
 ### Настройка анимации
 
-| Direction | Description |
+| Направление | Описание |
 |---------|-----------|
-| In | The tween will have less speed at its beginning and more speed toward its end. |
-| Out | The tween will have more speed at its beginning and less speed toward its end. |
-| InOut | In and Out on the same tween, with In at the beginning and Out taking effect halfway through. |
+| In | Анимация будет иметь меньшую скорость в начале и большую скорость в конце. |
+| Out | Анимация будет иметь большую скорость в начале и меньшую скорость в конце. |
+| InOut | In и Out для одной и той же анимации, с In в начале и Out, вступающими в силу в середине. |
