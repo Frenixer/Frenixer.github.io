@@ -79,3 +79,41 @@ object:TweenSize(UDim2.new(0, 400, 0, 100))
 | Quint | Similar to Quad but with an even more emphasized start and/or finish. |
 | Bounce | Moves as if the start or end position of the tween is bouncy. |
 | Elastic | Moves as if the object is attached to a rubber band. |
+
+````lua
+local object = script.Parent
+object.AnchorPoint = Vector2.new(0.5, 0.5)
+object.Position = UDim2.new(0.1, 0, 0.5, 0)
+ 
+wait(2)
+ 
+object:TweenPosition(UDim2.new(0.5, 0, 0.5, 0), "Out","Quint")
+````
+
+### Время
+
+Обычно, оно длиться ``1`` секунду, но можно добавить число и будет оно длиться сколько вы задали
+
+````lua
+local object = script.Parent
+object.AnchorPoint = Vector2.new(0.5, 0.5)
+object.Position = UDim2.new(0.1, 0, 0.5, 0)
+ 
+wait(2)
+ 
+object:TweenPosition(UDim2.new(0.5, 0, 0.5, 0), "Out","Quint",3)
+````
+
+### прерывание анимации
+
+По умолчанию оно стоит на ``false``, но можно изменить на ``true``, и тогда если уже tween выполняется, то можно будет ее прервать
+
+````lua
+local object = script.Parent
+object.AnchorPoint = Vector2.new(0.5, 0.5)
+object.Position = UDim2.new(0.1, 0, 0.5, 0)
+ 
+wait(2)
+ 
+object:TweenPosition(UDim2.new(0.5, 0, 0.5, 0), "Out","Quint",3, true)
+````
