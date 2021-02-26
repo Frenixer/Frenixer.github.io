@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Frenixer's Site"
 plugins:
-  - youtube
-  - BetterTube
+  - jemoji
