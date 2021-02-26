@@ -78,6 +78,9 @@ object:TweenSize(UDim2.new(0, 400, 0, 100))
 | Bounce | Moves as if the start or end position of the tween is bouncy. |
 | Elastic | Moves as if the object is attached to a rubber band. |
 
+
+![styles](https://dk135eecbplh9.cloudfront.net/assets/blt164bc3fd53630e3a/Easingstyle.gif)
+
 ````lua
 local object = script.Parent
 object.AnchorPoint = Vector2.new(0.5, 0.5)
